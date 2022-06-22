@@ -1,1 +1,1 @@
-# MediaSoftPR
+# Практика MediaSoft
